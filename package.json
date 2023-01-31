@@ -28,7 +28,9 @@
   "files": [
     "HISTORY.md",
     "LICENSE",
-    "index.js"
+    "index.js",
+    "index.d.ts",
+    "tsconfig.json"
   ],
   "engines": {
     "node": ">= 0.6"
